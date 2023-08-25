@@ -1,0 +1,10 @@
+h1 {
+    color: cadetblue;
+    font-size: 25px;
+    text-decoration: underline;
+}
+p {
+    color: #656565;
+    font-size: 16px;
+    text-decoration: double;
+}
